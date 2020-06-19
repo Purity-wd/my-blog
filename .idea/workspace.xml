@@ -32,6 +32,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -79,7 +80,7 @@
       </method>
     </configuration>
     <configuration name="muchiBlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="-blog" />
+      <module name="my-blog" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.wyb.muchi.blog.*" />
@@ -154,10 +155,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="689" y="298" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592527039596" />
-    <state x="590" y="144" width="753" height="751" key="#muchiBlogApplication" timestamp="1592527480676">
+    <state x="590" y="144" width="753" height="751" key="#muchiBlogApplication" timestamp="1592548068063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="590" y="144" width="753" height="751" key="#muchiBlogApplication/0.0.1920.1040@0.0.1920.1040" timestamp="1592527480676" />
+    <state x="590" y="144" width="753" height="751" key="#muchiBlogApplication/0.0.1920.1040@0.0.1920.1040" timestamp="1592548068063" />
+    <state x="560" y="106" key="CommitChangelistDialog2" timestamp="1592548011377">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="106" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1592548011377" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1592530532322">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -214,14 +219,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592534299445" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1592534251858">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1592548027824">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592534251858" />
-    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592547905982">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592548027824" />
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592548030334">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592547905982" />
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592548030334" />
     <state x="731" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1592528537234">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
