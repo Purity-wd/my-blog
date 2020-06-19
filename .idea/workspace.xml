@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1eeb842e-7aa5-461e-8b94-bbc53dc32ef5" name="Default Changelist" comment="">
+    <list default="true" id="1eeb842e-7aa5-461e-8b94-bbc53dc32ef5" name="Default Changelist" comment="第一次提交">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +129,7 @@
       <workItem from="1592471100766" duration="114000" />
       <workItem from="1592471749486" duration="2669000" />
       <workItem from="1592526966084" duration="8824000" />
-      <workItem from="1592547108137" duration="1214000" />
+      <workItem from="1592547108137" duration="1496000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1592548011878</created>
@@ -151,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592548275750</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第一次提交">
+      <created>1592548352320</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592548352320</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,10 +194,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="590" y="144" width="753" height="751" key="#muchiBlogApplication/0.0.1920.1040@0.0.1920.1040" timestamp="1592548068063" />
-    <state x="560" y="106" key="CommitChangelistDialog2" timestamp="1592548351808">
+    <state x="560" y="106" key="CommitChangelistDialog2" timestamp="1592548515127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="106" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1592548351808" />
+    <state x="560" y="106" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1592548515127" />
     <state x="184" y="92" key="DiffContextDialog" timestamp="1592548349266">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -254,10 +262,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592548355583" />
-    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592548030334">
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592548430182">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592548030334" />
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592548430182" />
     <state x="731" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1592528537234">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
