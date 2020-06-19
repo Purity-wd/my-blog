@@ -1,0 +1,25 @@
+#数据库
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://121.36.1.210:3306/MuChiBlog?useUnicode=true&characterEncoding=utf8&useSSL=false
+    username: root
+    password: WYB123BLOG
+mybatis-plus:
+  mapper-locations: classpath:com.wyb.muchi.blog.mapper/*.xml
+  type-aliases-package: com.wyb.muchi.blog.domain
+
+server:
+  port: 10580
+shiro-redis:
+  enabled: true
+  redis-manager:
+    host: 121.36.1.210:6379
+wybblog:
+  jwt:
+    # 加密秘钥
+    secret: f4e2e52034348f86b67cde581c0f9eb5
+    # token有效时长，7天，单位秒
+    expire: 604800
+    header: Authorization
+
