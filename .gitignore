@@ -2,6 +2,9 @@
 .gradle
 /local.properties
 /.idea/workspace.xml
+/.idea/misc.xml
+/.idea/vcs.xml
+/.idea/compiler.xml
 /.idea/libraries
 .DS_Store
 /build
@@ -35,3 +38,15 @@ hs_err_pid*
 !/.gitignore
 !/.gitignore
 !/.idea/
+Would skip repository my-blog/
+target/classes/com/wyb/muchi/blog/common/
+target/classes/com/wyb/muchi/blog/config/
+target/classes/com/wyb/muchi/blog/controller/
+target/classes/com/wyb/muchi/blog/domain/
+target/classes/com/wyb/muchi/blog/service/
+target/classes/com/wyb/muchi/blog/shiro/
+target/classes/com/wyb/muchi/blog/support/
+target/classes/com/wyb/muchi/blog/util/
+target/generated-sources/
+target/generated-test-sources/
+target/test-classes/
