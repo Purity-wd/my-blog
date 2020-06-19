@@ -6,14 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="-blog" />
         <module name="myblog" />
+        <module name="my-blog" />
+        <module name="-blog" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="-blog" options="-parameters" />
+      <module name="my-blog" options="-parameters" />
       <module name="myblog" options="-parameters" />
     </option>
   </component>
